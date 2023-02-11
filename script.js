@@ -49,7 +49,7 @@ function concatenateArray() {
     { id: 11, name: "Sonam Meena", age: "20", marks: 85 },
   ];
   let all = arr.concat(arr1);
-
+console.log(all);
 
   
 }
